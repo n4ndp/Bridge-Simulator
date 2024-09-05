@@ -19,7 +19,11 @@
 
 Para tener una idea visual de lo que buscamos desarrollar, aquí tienes un video de gameplay de **Poly Bridge**:
 
-[![Gameplay de Poly Bridge](https://img.youtube.com/vi/d_2KPqC4b1s/0.jpg)](https://youtu.be/d_2KPqC4b1s?t=375)
+<p align="center">
+  <a href="https://youtu.be/d_2KPqC4b1s?t=375">
+    <img src="https://img.youtube.com/vi/d_2KPqC4b1s/0.jpg" alt="Gameplay de Poly Bridge">
+  </a>
+</p>
 
 ## **Motivación**
 
